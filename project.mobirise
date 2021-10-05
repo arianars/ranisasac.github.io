@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RANISA",
-    "currentPage": "index.html",
+    "currentPage": "ranisa.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -55,10 +55,10 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "ranisa.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ranisa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
